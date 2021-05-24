@@ -1,9 +1,9 @@
 # Mozanta_project
-System Requirements:
+##System Requirements:
   Maven 3.8.x
   MongoDB 4.4.x
   Java 1.8.x
-Steps to run:
+##Steps to run:
   1.Download Mozanta_project repo
   2.In terminal 1
     cd Back
