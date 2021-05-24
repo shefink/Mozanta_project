@@ -3,15 +3,15 @@ body{
    background-color:rgb(35, 231, 35);
   }
   .App{
+    background-color:rgb(35, 231, 35);
     min-height:500px;
     width: 400px;
     margin: 40px auto;
-    background-image: url("C:\Users\Shefin\Documents\Trial\front\src\d.jpg");
     border-radius: 10px;
   }
   
 #to-do-form input{
-    background-color: rgb(75, 178, 247);
+    background-color: rgb(255, 0, 0);
     border: 0; 
     color:rgb(12, 12, 12);
     width: 200px;
